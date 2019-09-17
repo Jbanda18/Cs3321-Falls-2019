@@ -3,7 +3,7 @@
 - Tyler Thornton
 - Simon Phan
 - Eric Martinez
-- Zeus
+- Jesus (Zeus) Banda
 - Lim Nguyen
 
 ## To Do
